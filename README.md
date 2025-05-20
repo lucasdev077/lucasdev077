@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/iamllucasz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lucas-alves-2024/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-alves-7b3516269/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
