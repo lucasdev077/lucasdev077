@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Alves;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
@@ -15,7 +14,15 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/_iamlucaszz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/iamllucasz/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-alves-2024/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div> 
  
 ### Main skills:
@@ -24,7 +31,6 @@
 ### Tools:
 [![skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
- 
 ### Other Knowledge:
 [![Other](https://skillicons.dev/icons?i=bootstrap,figma)](https://skillicons.dev)
   
@@ -36,6 +42,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasdev077}/count.svg" /></p> 
 <br></div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
