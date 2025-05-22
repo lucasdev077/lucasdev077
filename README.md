@@ -26,7 +26,7 @@
 </div> 
  
 ### Main skills:
-[![skills](https://skillicons.dev/icons?i=java,js,react,mysql,html,css)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=java,js,mysql,html,css)](https://skillicons.dev)
 
 ### Tools:
 [![skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
