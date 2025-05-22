@@ -32,7 +32,7 @@
 [![skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 ### Other Knowledge:
-[![Other](https://skillicons.dev/icons?i=bootstrap,figma)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
   
 ### Studying in this moment:
 [![Studying](https://skillicons.dev/icons?i=azure,react)](https://skillicons.dev)
