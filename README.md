@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/lucas-alves-7b3516269/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+  <a href="https://discord.com/users/lucaswin01" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
