@@ -50,10 +50,9 @@
 
 
 <!-- Contador de visitantes -->
-<h3 align="center">👥 Painel de Visitantes</h3>
+<h3 align="center></h3>
 
 <p align="center">
-  Veja quantas pessoas já visitaram meu perfil! 😄
 </p>
 
 <p align="center">
