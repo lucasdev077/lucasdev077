@@ -14,7 +14,7 @@
 <div align="center">
   <br>
   <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lucasdev077&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src=https://github-readme-activity-graph.vercel.app/graph?username=lucasdev077&theme=github-compact
 </div>
 
 <!-- Trophies -->
