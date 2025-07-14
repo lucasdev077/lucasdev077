@@ -1,23 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> 
+<!-- Header com efeito em onda -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Alves;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<!-- Texto animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Alves;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-<p PRO </p>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasAlves&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Alves github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdev077&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<!-- GitHub Stats -->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasdev077&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Alves GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdev077&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
-   ![GitHub Skyline](https://github.com/lucasdev077/lucasdev077/raw/main/assets/skyline.gif)
+<!-- Skyline 3D (gráfico animado de contribuições) -->
+<div align="center">
+  <br>
+  <h3>🌌 My GitHub 3D Skyline</h3>
+  <img src="https://github.com/lucasdev077/lucasdev077/raw/main/assets/skyline.gif" alt="3D Skyline GitHub" width="100%" />
+  <br>
+  <small>(Gerado via: https://skyline.github.com/)</small>
+</div>
 
-
-
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lucasdev077&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<!-- Redes Sociais -->
 <div align="center">  
   <a href="https://www.instagram.com/iamllucasz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -28,23 +35,28 @@
   <a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div> 
- 
-### Main skills:
+</div>
+
+---
+
+### 🛠️ Main Skills:
 [![skills](https://skillicons.dev/icons?i=java,mysql,js,html,css)](https://skillicons.dev)
 
-### Tools:
-[![skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+### 💻 Tools:
+[![tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
-### Other Knowledge:
-[![Other](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-  
-### Studying in this moment:
-[![Studying](https://skillicons.dev/icons?i=azure,react)](https://skillicons.dev)
+### 📚 Other Knowledge:
+[![other](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
+### 📖 Currently Studying:
+[![studying](https://skillicons.dev/icons?i=azure,react)](https://skillicons.dev)
+
+<!-- Contador de visitantes -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasdev077}/count.svg" /></p> 
-<br></div>
+  <br>
+  <p><b>👤 Visitor Count</b></p>  
+  <img src="https://profile-counter.glitch.me/lucasdev077/count.svg" />
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!-- Footer com efeito em onda -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
