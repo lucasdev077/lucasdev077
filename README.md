@@ -50,10 +50,16 @@
 
 
 <!-- Contador de visitantes -->
-<!-- Contador de visitantes centralizado com painel -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasdev077/count.svg" />
-</div>
+<h3 align="center">👥 Painel de Visitantes</h3>
+
+<p align="center">
+  Veja quantas pessoas já visitaram meu perfil! 😄
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/lucasdev077/count.svg" alt="Contador de Visitas" />
+</p>
+
 
 
 <!-- Footer com efeito em onda -->
