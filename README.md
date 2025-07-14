@@ -13,7 +13,6 @@
 <!-- Gráfico de Contribuições (Commits) -->
 <div align="center">
   <br>
-  <h3>📈 Contribution Activity</h3>
   <img src=https://github-readme-activity-graph.vercel.app/graph?username=lucasdev077&theme=github-compact
 </div>
 
