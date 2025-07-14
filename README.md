@@ -50,11 +50,11 @@
 
 
 <!-- Contador de visitantes -->
+<!-- Contador de visitantes centralizado com painel -->
 <div align="center">
-  <br>
-  <p><b>👤 Visitor Count</b></p>  
   <img src="https://profile-counter.glitch.me/lucasdev077/count.svg" />
 </div>
+
 
 <!-- Footer com efeito em onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
