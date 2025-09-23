@@ -49,15 +49,6 @@
 [![studying](https://skillicons.dev/icons?i=azure,react)](https://skillicons.dev)
 
 
-<!-- Contador de visitantes -->
-<h3 align="center></h3>
-
-<p align="center">
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/lucasdev077/count.svg" alt="Contador de Visitas" />
-</p>
 
 
 
