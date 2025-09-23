@@ -43,10 +43,10 @@
 [![tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 ### 📚 Other Knowledge:
-[![other](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![other](https://skillicons.dev/icons?i=figma,tailwind)](https://skillicons.dev)
 
 ### 📖 Currently Studying:
-[![studying](https://skillicons.dev/icons?i=azure,react)](https://skillicons.dev)
+[![studying](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
 
