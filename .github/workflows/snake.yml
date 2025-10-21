@@ -2,13 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Atualiza automaticamente a cada 6 horas
+  workflow_dispatch:  # Rode manualmente
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write  # Permissão essencial pra criar branches
 
 jobs:
   generate:
@@ -17,7 +15,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: false  # Evita erros de credenciais
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -25,10 +22,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3.9.3  # Alternativa mais simples pro deploy
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
+          branch: output  # Cria/atualiza a branch output
+          folder: dist    # Pasta com os SVGs
+          clean: true     # Limpa arquivos antigos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
