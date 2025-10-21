@@ -5,19 +5,28 @@ on:
     - cron: "0 */6 * * *"  # Executa a cada 6 horas
   workflow_dispatch:  # Permite rodar manualmente
 
+permissions:
+  contents: write  # Permissão pra criar branches e arquivos
+  pages: write     # Pra deploy de páginas (se necessário)
+  id-token: write  # Pra autenticação segura
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Pra pegar histórico completo de contribuições
       - name: Generate snake
         uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.5.1
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
