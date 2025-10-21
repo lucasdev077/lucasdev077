@@ -15,13 +15,16 @@
 <br><br>
 
 ### 🐍 Contribution Snake Animation
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasdev077/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasdev077/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasdev077/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasdev077/lucasdev077/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasdev077/lucasdev077/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucasdev077/lucasdev077/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
 <br>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=lucasdev077&theme=onestar&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies"/>
