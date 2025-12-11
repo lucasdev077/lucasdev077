@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas+Alves!;I'm+an+Analysis+and+Systems+Development+student;Welcome+to+my+GitHub!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas+Alves!;I'm+a+Systems+Analysis+and++Development;Welcome+to+my+GitHub!+👋)](https://git.io/typing-svg)
 
 ---
 
